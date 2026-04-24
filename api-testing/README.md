@@ -48,4 +48,4 @@ REST API [интернет-магазина](https://intern.demoshopping.ru/)
 
 ## Тестовые артефакты  
 - [Postman Collection](./demoshopp.postman_collection.json)
-- 
+- [Postman Environment](./QA.postman_environment.json)
